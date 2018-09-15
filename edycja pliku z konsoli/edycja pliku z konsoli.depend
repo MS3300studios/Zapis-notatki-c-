@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537032693 source:c:\users\msi\desktop\cdbl programme files\edycja pliku z konsoli\funkcje.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"funkcje.h"
+
+1537031325 c:\users\msi\desktop\cdbl programme files\edycja pliku z konsoli\funkcje.h
+	<iostream>
+
+1537033585 source:c:\users\msi\desktop\cdbl programme files\edycja pliku z konsoli\main.cpp
+	<iostream>
+	"funkcje.h"
+	<cstdlib>
+	<windows.h>
+
